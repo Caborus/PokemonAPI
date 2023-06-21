@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 namespace TestAPI.Controllers
 {
     [ApiController]
-    [Route("api/Pokemon")]
+    [Route("Pokemon")]
     public class PokemonController : ControllerBase{
         private PokemonDbContext _context;
         public PokemonController(PokemonDbContext context){ 
