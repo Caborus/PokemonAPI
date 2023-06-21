@@ -5791,11 +5791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/scuser/Documents/PokemonAPI/TestAPI/TestAPI.csproj",
+      "projectUniqueName": "/Users/scuser/Documents/PokemonAPI/PokemonAPI/TestAPI.csproj",
       "projectName": "TestAPI",
-      "projectPath": "/Users/scuser/Documents/PokemonAPI/TestAPI/TestAPI.csproj",
+      "projectPath": "/Users/scuser/Documents/PokemonAPI/PokemonAPI/TestAPI.csproj",
       "packagesPath": "/Users/scuser/.nuget/packages/",
-      "outputPath": "/Users/scuser/Documents/PokemonAPI/TestAPI/obj/",
+      "outputPath": "/Users/scuser/Documents/PokemonAPI/PokemonAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/scuser/.nuget/NuGet/NuGet.Config"
