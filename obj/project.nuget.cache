@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PaZCF/1h15FU0hh2RTGxmFfjabNJEUcGv5yadwDgeZJ6f0kHCgYPJQNBSvm/2RNCKO0R1Gp8213ZLIj9QPWpLg==",
+  "dgSpecHash": "1+/CNSvp0O67/gMN8dAusLSWTe4SDt8dxEdER3X6KgUEF80greiRGonFrQPjssgD5L+y+sOFNiAaKvqJcVYNYQ==",
   "success": true,
-  "projectFilePath": "/Users/scuser/Documents/PokemonAPI/PokemonAPI/TestAPI.csproj",
+  "projectFilePath": "/Users/scuser/Documents/PokemonAPI/TestAPI/TestAPI.csproj",
   "expectedPackageFiles": [
     "/Users/scuser/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/scuser/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
